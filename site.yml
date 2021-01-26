@@ -3,12 +3,12 @@ runtime:
 
 site:
   title: OpenShift Starter Guides
-  url: http://redhat-scholars.github.io/openshift-starter-guides/
+  url: http://redhat-scholars.github.io/openshift-starter-guides-dotnet/
   start_page: rhs-openshift-starter-guides::index.adoc
 
 content:
   sources:
-    - url: git@github.com:redhat-scholars/openshift-starter-guides.git
+    - url: git@github.com:redhat-scholars/openshift-starter-guides-dotnet.git
       tags: []
       branches: [roks, ocp-4.6]
       start_path: documentation
@@ -24,8 +24,8 @@ asciidoc:
     release-version: roks
     roks-login-url: https://cloud.ibm.com/authorize/devcluster
     page-pagination: true
-    lab: java
-    lab-name: Java
+    lab: dotnet
+    lab-name: .NET
   extensions:
     - ./lib/tab-block.js
     - ./lib/remote-include-processor.js
