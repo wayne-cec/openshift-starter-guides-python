@@ -4,7 +4,7 @@ runtime:
 site:
   title: OpenShift Starter Guides
   url: http://redhat-scholars.github.io/openshift-starter-guides-dotnet/
-  start_page: rhs-openshift-starter-guides::index.adoc
+  start_page: rhs-openshift-starter-guides-dotnet::index.adoc
 
 content:
   sources:
