@@ -27,8 +27,8 @@ asciidoc:
     page-pagination: true
     openshift-console-url: https://console-openshift-console.apps.example.com
     etherpad-url: http://example.com
-    lab: java
-    lab-name: Java
+    lab: dotnet
+    lab-name: .NET
   extensions:
     - ./lib/remote-include-processor.js
     - ./lib/tab-block.js
