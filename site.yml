@@ -21,7 +21,7 @@ asciidoc:
     openshift-docs-url: https://docs.openshift.com/container-platform/4.6
     openshift-version: 4.6
     project-namespace: workshop
-    release-version: roks
+    release-version: github
     roks-login-url: https://cloud.ibm.com/authorize/devcluster
     page-pagination: true
     lab: python
